@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/tcxkl/blog.git</id>
+    <id>http://github.com/tcxkl/blog.git</id>
     <title>天才小恐龙的个人博客</title>
-    <updated>2023-05-19T12:56:17.187Z</updated>
+    <updated>2023-05-19T13:06:09.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/tcxkl/blog.git"/>
-    <link rel="self" href="https://github.com/tcxkl/blog.git/atom.xml"/>
+    <link rel="alternate" href="http://github.com/tcxkl/blog.git"/>
+    <link rel="self" href="http://github.com/tcxkl/blog.git/atom.xml"/>
     <subtitle>博主懒，不想加</subtitle>
-    <logo>https://github.com/tcxkl/blog.git/images/avatar.png</logo>
-    <icon>https://github.com/tcxkl/blog.git/favicon.ico</icon>
+    <logo>http://github.com/tcxkl/blog.git/images/avatar.png</logo>
+    <icon>http://github.com/tcxkl/blog.git/favicon.ico</icon>
     <rights>All rights reserved 2023, 天才小恐龙的个人博客</rights>
 </feed>
